@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>阿然君的小站</title>
+  <icon>https://cdn.jsdelivr.net/gh/weiranfu/image-hosting@main/img/avatar/favicon.ico</icon>
+  
+  <link href="https://www.aranne.me/atom.xml" rel="self"/>
+  
+  <link href="https://www.aranne.me/"/>
+  <updated>2020-12-07T03:41:02.164Z</updated>
+  <id>https://www.aranne.me/</id>
+  
+  <author>
+    <name>阿然君</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Medium | 3Sum 15</title>
+    <link href="https://www.aranne.me/posts/3Sum-15/"/>
+    <id>https://www.aranne.me/posts/3Sum-15/</id>
+    <published>2019-12-01T21:31:44.000Z</published>
+    <updated>2020-12-07T03:41:02.164Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Given an array &lt;code&gt;nums&lt;/code&gt; of &lt;em&gt;n&lt;/em&gt; integers, are there elements &lt;em&gt;a&lt;/em&gt;, &lt;em&gt;b&lt;/em&gt;, &lt;em&gt;c&lt;/em&gt; in &lt;code&gt;nums&lt;/code&gt;such that &lt;em&gt;a&lt;/em&gt; + &lt;em&gt;b&lt;/em&gt; + &lt;em&gt;c&lt;/em&gt; = 0? Find all unique triplets in the array which gives the sum of zero.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://leetcode.com/problems/3sum/&quot;&gt;Leetcode&lt;/a&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Leetcode" scheme="https://www.aranne.me/categories/Leetcode/"/>
+    
+    <category term="Two Pointers" scheme="https://www.aranne.me/categories/Leetcode/Two-Pointers/"/>
+    
+    
+    <category term="tricky" scheme="https://www.aranne.me/tags/tricky/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Easy | Two Sum 1</title>
+    <link href="https://www.aranne.me/posts/1-Two-sum/"/>
+    <id>https://www.aranne.me/posts/1-Two-sum/</id>
+    <published>2019-10-27T02:50:37.000Z</published>
+    <updated>2020-12-07T00:13:34.161Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Given an array of integers, return &lt;strong&gt;indices&lt;/strong&gt; of the two numbers such that they add up to a specific target.&lt;/p&gt;
+&lt;p&gt;You may assume that each input would have &lt;strong&gt;exactly&lt;/strong&gt; one solution, and you may not use the &lt;em&gt;same&lt;/em&gt; element twice.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://leetcode.com/problems/two-sum/&quot;&gt;Leetcode&lt;/a&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Leetcode" scheme="https://www.aranne.me/categories/Leetcode/"/>
+    
+    <category term="Array" scheme="https://www.aranne.me/categories/Leetcode/Array/"/>
+    
+    
+    <category term="common" scheme="https://www.aranne.me/tags/common/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Medium | Add Two Numbers 2</title>
+    <link href="https://www.aranne.me/posts/2-Add-two-numbers/"/>
+    <id>https://www.aranne.me/posts/2-Add-two-numbers/</id>
+    <published>2019-12-02T18:45:51.000Z</published>
+    <updated>2020-11-28T03:05:13.582Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;You are given two &lt;strong&gt;non-empty&lt;/strong&gt; linked lists representing two non-negative integers. The digits are stored in &lt;strong&gt;reverse order&lt;/strong&gt; and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.&lt;/p&gt;
+&lt;p&gt;You may assume the two numbers do not contain any leading zero, except the number 0 itself.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://leetcode.com/problems/add-two-numbers/&quot;&gt;Leetcode&lt;/a&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Leetcode" scheme="https://www.aranne.me/categories/Leetcode/"/>
+    
+    <category term="Linked List" scheme="https://www.aranne.me/categories/Leetcode/Linked-List/"/>
+    
+    
+    <category term="tricky" scheme="https://www.aranne.me/tags/tricky/"/>
+    
+  </entry>
+  
+</feed>
