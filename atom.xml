@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>阿然君的小站</title>
-  <icon>https://cdn.jsdelivr.net/gh/weiranfu/image-hosting@main/img/avatar/favicon.ico</icon>
+  <icon>https://cdn.jsdelivr.net/gh/weiranfu/image-hosting@main/img/avatar/avatar.png</icon>
   
   <link href="https://www.aranne.me/atom.xml" rel="self"/>
   
